@@ -1,6 +1,7 @@
-### This is first program in Java fundamentals. Compile and run this program using following commands.
+### This is first program in Java fundamentals.
 
-Prerequisites:
+*Prerequisites:*
+
 JDK latest version is installed on current machine (JDK 8+ when writing this program)
 from https://www.oracle.com/java/technologies/javase-downloads.html
 
