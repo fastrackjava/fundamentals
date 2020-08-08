@@ -16,5 +16,5 @@ from https://www.oracle.com/java/technologies/javase-downloads.html
      
    > Run *./buildnrun.sh*
 
-![Running Program 001](program-001.png)
+   > ![Running Program 001](program-001.png)
 
