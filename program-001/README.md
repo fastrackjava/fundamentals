@@ -14,5 +14,5 @@ On Unix/ Linux/ Mac:
      Eg: /Users/fastrackjava/ws/fundamentals/program-001
    > Run ./buildnrun.sh
 
-
+![Running Program 001](program-001.png)
 
