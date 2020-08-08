@@ -14,7 +14,7 @@ from https://www.oracle.com/java/technologies/javase-downloads.html
    > Open terminal/ shell and change to this directory
      Eg: /Users/fastrackjava/ws/fundamentals/program-001
      
-   > Run *./buildnrun.sh*
+   > Type *./buildnrun.sh* and hit enter
 
    > ![Running Program 001](program-001.png)
 
